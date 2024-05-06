@@ -1,21 +1,17 @@
-# UT Homework Assignment
-> An illustration of GitFlow on GitHub
+# Dylan Carr HW#7
+> This is for **extra credit**
 
-This is the app that was used in reference of the live demo for GitFlow.
+Here I will be outlining the steps to complete the extra credit.
 
 ### REQUIREMENTS
 
-- IntelliJ
-- Java
-- CSET 3600 Information
+- Git _for Windows_
+- Microsoft Word
+- Internet Connection
 
-### CONTRIBUTING
+### STEPS
 
-1. Clone the repository `git clone https://github.com/donmiller-ut/GitFlowLiveDemo`
-1. Create a feature branch `git checkout -b my-awesome-feature`
-1. Make your code changes
-1. Commit your changes (small commits please)
-1. Push your new branch `git push origin my-awesome-feature`
-1. Create a pull request `hub pull-request -b donmiller-ut:master -h donmiller-ut:my-awesome-feature`
-
-_Testing_
+1. Write ***this*** markdown example
+2. Create a new issue
+3. Create a new project
+4. Update ***this*** `readme.md` or make another commit that references the issue created in step 2
